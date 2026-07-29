@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.8",
-  "storagePath": "giovangtv-v1.1.8.apk",
-  "sha256": "aae7c8df25cbf0ffb1067c008f394fec567c7947b3b76723096ed7b27b689b04",
+  "versionCode": 19,
+  "versionName": "1.1.9",
+  "storagePath": "giovangtv-v1.1.9.apk",
+  "sha256": "b40e7880ba35bae5510d5ecbd90d517d212b53dd66e95db17774b19e5860bd3f",
   "changelog": "Bug fixes",
   "mandatory": false
 }
